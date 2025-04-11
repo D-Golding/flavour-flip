@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import styled, { createGlobalStyle, ThemeProvider } from 'styled-components';
 
-// Import images and videos
+// Import images and videos from assets
 import food1 from '../../assets/food1.jpeg';
 import food2 from '../../assets/food2.jpeg';
 import food3 from '../../assets/food3.jpeg';
